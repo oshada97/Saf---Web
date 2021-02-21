@@ -6,6 +6,6 @@
 ##  [Download Python](https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe "for => Python Mini Projects")
 
 ### IDE for Python
-VS Code
+[VS Code](https://code.visualstudio.com/ "VS Code")
 Pycharm
 Notepad ++
