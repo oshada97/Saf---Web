@@ -10,3 +10,4 @@ VS Code
 Pycharm
 Notepad ++
 Anaconda
+Spyder
